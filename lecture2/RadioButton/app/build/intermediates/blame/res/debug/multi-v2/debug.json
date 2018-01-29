@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/piyushkhandelwal/android_code/Basic/RadioButton/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Basic/RadioButton/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,5,3,4",
+                        "startColumns": "2,2,2,2",
+                        "startOffsets": "53,184,104,140",
+                        "endColumns": "50,37,35,43",
+                        "endOffsets": "101,219,137,181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,108,148,186",
+                        "endColumns": "52,39,37,45",
+                        "endOffsets": "103,143,181,227"
+                    }
+                }
+            ]
+        }
+    ]
+}

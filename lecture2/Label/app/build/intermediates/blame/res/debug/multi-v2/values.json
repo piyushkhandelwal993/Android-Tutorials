@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Label/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Label/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,98",
+                        "endColumns": "44,73",
+                        "endOffsets": "95,169"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,75",
+                        "endOffsets": "97,173"
+                    }
+                }
+            ]
+        }
+    ]
+}
