@@ -8,6 +8,10 @@
         "source": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Button/app/src/main/res/layout/main.xml"
     },
     {
+        "merged": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Button/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Button/app/src/main/res/layout/activity_main.xml"
+    },
+    {
         "merged": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Button/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Button/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },

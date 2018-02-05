@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Feb 05 12:47:21 IST 2018
+2.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_
+5.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_
+6.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+10.set=DEX
+10.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/13/classes.dex
+4.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/15
+7.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex
+5.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_
+8.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex
+4.set=DEX
+6.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_
+1.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/14/classes.dex
+9.set=DEX
+9.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex
+10.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/13
+1.set=DEX
+7.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_
+2.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/other.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/12
+8.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/11
+3.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/14
+9.base=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/16
+4.file=/Users/piyushkhandelwal/android_code/Activities/Lifecycle/app/build/intermediates/transforms/dexMerger/debug/15/classes.dex
+8.set=DEX
+0.set=DEX

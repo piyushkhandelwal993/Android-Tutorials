@@ -6,11 +6,11 @@
                 {
                     "source": "/Users/piyushkhandelwal/Android-Tutorials/lecture2/Button/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,3",
-                        "startColumns": "-1,1",
-                        "startOffsets": "-1,53",
-                        "endColumns": "-1,46",
-                        "endOffsets": "-1,98"
+                        "startLines": "4,3",
+                        "startColumns": "1,1",
+                        "startOffsets": "100,53",
+                        "endColumns": "44,46",
+                        "endOffsets": "143,98"
                     },
                     "to": {
                         "startLines": "2,3",
