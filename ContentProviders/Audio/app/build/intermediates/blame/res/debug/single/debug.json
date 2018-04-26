@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_play_arrow.xml.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_play_arrow.xml"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/menu_actions.xml.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/menu/actions.xml"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable_stop.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/drawable/stop.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_arrow.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-hdpi/ic_play_arrow.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_arrow.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_play_arrow.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pause.xml.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pause.xml"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_stop.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-hdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable_pause.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_stop.xml.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_stop.xml"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable_play.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pause.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable_eject.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/drawable/eject.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/raw_clip.ogg.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/raw/clip.ogg"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stop.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_stop.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pause.png"
+    },
+    {
+        "merged": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

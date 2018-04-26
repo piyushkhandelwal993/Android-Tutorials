@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "185",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "464"
+                    }
+                },
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/values-v21/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "138,53,93",
+                        "endColumns": "38,39,44",
+                        "endOffsets": "174,90,135"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,96,138",
+                        "endColumns": "40,41,46",
+                        "endOffsets": "91,133,180"
+                    }
+                }
+            ]
+        }
+    ]
+}

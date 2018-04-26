@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,155,112,200,243,307",
+                        "endColumns": "56,44,42,42,63,80",
+                        "endOffsets": "107,195,150,238,302,383"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,112,157,200,243,307",
+                        "endColumns": "56,44,42,42,63,80",
+                        "endOffsets": "107,152,195,238,302,383"
+                    }
+                },
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "2",
+                        "startOffsets": "54",
+                        "endColumns": "94",
+                        "endOffsets": "146"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "388",
+                        "endColumns": "89",
+                        "endOffsets": "473"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/piyushkhandelwal/android_code/Media/Audio/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "185",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "464"
+                    }
+                },
+                {
+                    "source": "/Users/piyushkhandelwal/android_code/Media/Audio/app/src/main/res/values-v21/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "138,53,93",
+                        "endColumns": "38,39,44",
+                        "endOffsets": "174,90,135"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,96,138",
+                        "endColumns": "40,41,46",
+                        "endOffsets": "91,133,180"
+                    }
+                }
+            ]
+        }
+    ]
+}
